@@ -9,3 +9,4 @@ it is powered in https://disc-back.vercel.app/
 # reference
 
 * https://vercel.com/docs/runtimes#advanced-usage/advanced-python-usage
+* https://dev.to/andrewbaisden/how-to-deploy-a-python-flask-app-to-vercel-2o5k
