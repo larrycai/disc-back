@@ -2,8 +2,8 @@
 
 it is powered in https://disc-back.vercel.app/ 
 
-* each change in git repo will trigger auto build, see vercel
-* if it is failure, check functions (log)
+* each change in git repo will trigger auto build, see vercel https://vercel.com/larrycai/disc-back/deployments
+* if it is failure, check functions (log) 
 * module is defined in `requirements.txt`
 
 # reference
